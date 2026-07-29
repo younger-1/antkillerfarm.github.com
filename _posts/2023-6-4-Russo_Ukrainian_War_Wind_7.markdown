@@ -19,6 +19,10 @@ https://www.163.com/dy/article/HAK9665K05530F42.html
 
 我为两个祖国而战——白俄罗斯卡利诺夫斯基志愿军团抵抗俄罗斯入侵乌克兰的故事
 
+https://zhuanlan.zhihu.com/p/2062539892094132650
+
+白俄罗斯因素：卡斯图斯·卡利诺夫斯基团士兵谈卢卡申科、乌白战争的可能性以及俄罗斯的操纵手段
+
 ---
 
 I stand with Russia, the Russia of the Russian people, not the Russia of Vladimir Putin.

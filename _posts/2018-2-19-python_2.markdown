@@ -9,6 +9,37 @@ category: language
 
 # Python
 
+## python中的星号（*）（续）
+
+### 调用方法时
+
+```python
+def add(x,y):
+    print x+y
+
+para = (1,2)
+add(*para)
+#result: 3
+
+kkwd = {'x' :1,'y':2}
+add(**kkwd)
+#result: 3
+```
+
+参考：
+
+http://blog.csdn.net/yzj99848873/article/details/48025593
+
+Python星号（ * ）操作符的用法
+
+https://mp.weixin.qq.com/s/toh59s2-UlqiZfkE5ThxZw
+
+谈一谈python中的魔法变量*args和**kwargs
+
+https://mp.weixin.qq.com/s/s7PFVE_wcAMZaRUds2MJDQ
+
+Python中的*args和**kwargs是什么？该如何使用？
+
 ## 运算符重载
 
 ```python
@@ -391,69 +422,3 @@ collections模块还有其他一些功能。例如：
 https://mp.weixin.qq.com/s/lHFbec5oBshoASjJQHXxtg
 
 用好collections模块，对李白诗集进行字频统计
-
-## @的用法
-
-`@`在python中是装饰器的意思，它的用法比较复杂。假设我们要增强函数的功能，比如，在函数调用前后自动打印日志，但又不希望修改函数的定义，这种在代码运行期间动态增加功能的方式，称之为“装饰器”（Decorator）。
-
-```python
-def timer(func):
-  def f(x, y=10):
-    before = time()
-    rv = func(x, y)
-    after = time()
-    print('time taken: ', after - before)
-    return rv
-  return f
-
-@timer
-def add(x, y=10):
-  return x + y
-```
-
-装饰器接受func作为参数，并返回装饰好之后的func。上例等价于：
-
-```python
-f = timer(add)
-f(x,y)
-```
-
-此外还有类装饰器，其一般签名如下：
-
-```python
-def cls_decorator(cls: type[T]) -> type[T]:
-```
-
-在python 3.5以后，`@`是一个操作符，表示矩阵-向量乘法。
-
-`A@x`就是矩阵-向量乘法`np.dot(A, x)`。
-
-参见：
-
-https://www.zhihu.com/question/26930016
-
-如何理解Python装饰器？
-
-https://mp.weixin.qq.com/s/1QjJqFfJNNych9b6ae5VUg
-
-深入理解Python装饰器
-
-https://www.liaoxuefeng.com/wiki/1016959663602400/1017502538658208
-
-使用@property
-
-https://www.liaoxuefeng.com/wiki/1016959663602400/1017451662295584
-
-装饰器
-
-https://mp.weixin.qq.com/s/qMT46hjOQeXsjVpZPqLRVA
-
-一文读懂Python装饰器
-
-https://mp.weixin.qq.com/s/_ZvF6jK5Jo4rFGwHvEoAig
-
-一文读懂Python装饰器由来
-
-https://mp.weixin.qq.com/s/Wsk6H3Z6HwGPKTRNYc2cLw
-
-一个已经存在10年，却被严重低估的库（decorator）

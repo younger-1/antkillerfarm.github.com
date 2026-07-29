@@ -172,6 +172,20 @@ $$
 
 Gated DeltaNet-2先通道衰减，再局部擦除，而Kimi Delta Attention先局部擦除，再通道衰减。
 
+Qwen3.5的DeltaNet：
+
+$$
+\begin{align}
+\tilde{\boldsymbol q}_t &= \frac{\boldsymbol q_t}{\|\boldsymbol q_t\|_2\sqrt{d_k}} \\
+\tilde{\boldsymbol k}_t &= \frac{\boldsymbol k_t}{\|\boldsymbol k_t\|_2} \\
+g_t &= \exp\left(-e^{A_{\text{log}}}\cdot\text{softplus}(a_t+\text{dt_bias})\right),\quad
+\beta_t = \sigma(b_t) \\
+\boldsymbol \delta_t &= \beta_t \big(\boldsymbol v_t - (g_t \boldsymbol S_{t-1})^\top \tilde{\boldsymbol k}_t\big) \\
+\boldsymbol S_t &= g_t \boldsymbol S_{t-1} + \tilde{\boldsymbol k}_t \boldsymbol \delta_t^\top \\
+\boldsymbol o_t &= \boldsymbol S_t^\top \tilde{\boldsymbol q}_t
+\end{align}
+$$
+
 # RoPE
 
 ## Embedding

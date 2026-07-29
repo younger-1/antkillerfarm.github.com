@@ -9,6 +9,89 @@ category: language
 
 # Python
 
+## Sqlite
+
+Ubuntu下的安装方法是：
+
+`sudo apt install sqlite`
+
+Python自带了pysqlite包，用于调用sqlite。
+
+pysqlite的helloworld程序可参见：
+
+https://github.com/antkillerfarm/antkillerfarm_crazy/blob/master/python/pysqlite-helloworld.py
+
+可以使用sqlite_bro软件包，查看sqlite数据库。安装方法：
+
+`sudo pip install sqlite_bro`
+
+SQLCipher是Sqlite的一个fork，添加了AES加密和其他一些安全特性。
+
+代码：
+
+https://github.com/sqlcipher/sqlcipher
+
+参考：
+
+https://mp.weixin.qq.com/s/HcmOmwWQFBIOZs8p3nr7CQ
+
+让Python更加充分的使用Sqlite3
+
+https://mp.weixin.qq.com/s/V2wdmpb_eAGwj6DELEn2vg
+
+原来Python自带了数据库，用起来真方便！
+
+## zip
+
+Python的zip函数和数据压缩的zip算法没有任何关系。
+
+它的典型用法如下：
+
+```python
+>>> name=['song','ping','python']
+>>> age=[26,26,27]
+>>> zip(name,age)
+[('song', 26), ('ping', 26), ('python', 27)]
+>>> for n,a in zip(name,age):
+...   print n,a
+```
+
+zip函数属于Python的Built-in Functions，类似的函数还有：
+
+https://docs.python.org/3.6/library/functions.html
+
+参考：
+
+http://www.cnblogs.com/frydsh/archive/2012/07/10/2585370.html
+
+Python的zip函数
+
+## signal
+
+signal包用于处理系统消息。
+
+代码示例：
+
+```python
+import signal
+
+def handler(signum, frame):
+    print 'Signal handler called with signal', signum
+    raise IOError("Couldn't open device!")
+
+# Set the signal handler and a 5-second alarm
+signal.signal(signal.SIGALRM, handler)
+```
+
+## 文件名处理
+
+```python
+(filepath,tempfilename) = os.path.split(filename)
+(shotname,extension) = os.path.splitext(tempfilename)
+```
+
+python3.4+还可以使用标准库的pathlib模块。
+
 ## tqdm
 
 tqdm是一个快速，可扩展的进度条。
@@ -369,87 +452,3 @@ WTF Python：盘点鲜为人知的Python特性
 https://mp.weixin.qq.com/s/mANrN9k5Rjf1zQwhHvWUEw
 
 ​解密Python中的对象模型
-
-https://mp.weixin.qq.com/s/zQldWMBK5LWDFMyLbobK5w
-
-抖音超火的九宫格视频是如何生成的
-
-https://mp.weixin.qq.com/s/muGLG9WJNsZqZmGuN0u5RQ
-
-Python+Dash快速web应用开发——基础概念篇
-
-https://mp.weixin.qq.com/s/rMrY-M60jhdfDnX6LYOlCA
-
-Python+Dash快速web应用开发——页面布局篇
-
-https://mp.weixin.qq.com/s/MzORtWN-mSmY9N5Ps5m5Mw
-
-Python+Dash快速web应用开发：回调交互篇（上）
-
-https://mp.weixin.qq.com/s/_o5upbRqjADpCkZ0q0ZwkA
-
-Python+Dash快速web应用开发：回调交互篇（中）
-
-https://mp.weixin.qq.com/s/81HauaX6fWstbUfgp3pJvw
-
-Python+Dash快速web应用开发：回调交互篇（下）
-
-https://mp.weixin.qq.com/s/RlJ5Y6xJ-8NfDW7oSZlYbw
-
-深入Python解释器源码，我终于搞明白了字符串驻留的原理！
-
-https://mp.weixin.qq.com/s/LeTNcQCT4mYu6HSlGoHbzQ
-
-手机最强Python编程神器，在手机上运行Python不再是梦！
-
-https://mp.weixin.qq.com/s/5xs1ivkrUAP_Rr9P-EMc5g
-
-代码优化指南：人生苦短，我用Python。这篇blog主要介绍了如何追踪Python脚本的CPU使用情况。
-
-https://mp.weixin.qq.com/s/HGH2e_0ocHv2VWsjOje9BQ
-
-程序员必知的Python陷阱与缺陷列表
-
-http://blog.csdn.net/linda1000/article/details/8315892
-
-单引号、双引号和三双引号的区别
-
-https://mp.weixin.qq.com/s/RP2j-PQMsAIXOK5u4zt3ZA
-
-Python加速运行技巧
-
-https://mp.weixin.qq.com/s/7sQ6p0IDWvttbvv_c71Etg
-
-Python单元测试详解
-
-https://mp.weixin.qq.com/s/TMcj-X5SmOqOgh6Ljkb3sw
-
-模型热更新小记
-
-https://mp.weixin.qq.com/s/czqO4Lo1Jt9zqg2UKNlLYg
-
-手把手教你用Python创建微信聊天机器人
-
-https://mp.weixin.qq.com/s/nT4GLtDtJ1MUg8TBHBDf_A
-
-足不出户也能放风筝？OpenGL一招搞定！
-
-https://mp.weixin.qq.com/s/7KdH2Zx3ugK6DXn5SYewAw
-
-盘点Python加密解密模块hashlib的7种加密算法
-
-https://mp.weixin.qq.com/s/EWnXlinxEJgzdRGJH4bFTQ
-
-只需一行代码，就能导入所有的Python库？
-
-https://mp.weixin.qq.com/s/egThaVvcgV_-opocwxWOVA
-
-让Python代码简洁的实用技巧
-
-https://mp.weixin.qq.com/s/xamO4TZS90FtZMcn398stQ
-
-推荐3个Python文本终端GUI框架
-
-https://blog.csdn.net/qq_43954124/article/details/112772262
-
-python之Rich库使用入门(打印彩色字体，表单，进度条与状态动画，高级数据类型)

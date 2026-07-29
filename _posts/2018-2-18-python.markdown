@@ -143,6 +143,18 @@ python requirements文件生成与使用
 
 ---
 
+`tokenizers-0.21.0-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl`
+
+`cp39`：c表明wheel包里有c编译的binary。p39就是python 3.9
+
+`abi3`：表示用了稳定的ABI，能跨版本用，比如给python 3.10用。
+
+`huggingface_hub-0.34.4-py3-none-any.whl`
+
+none表示这是一个纯py文件的包，任意平台都能用。
+
+---
+
 https://mp.weixin.qq.com/s/9q0bLHTpzS-SvzfzHtZBXg
 
 Python依赖库管理哪家强？pip、pipreqs、pigar、pip-tools、pipdeptree任君挑选
@@ -401,32 +413,3 @@ print(mix(1,2,x=3,y=4))
 ```
 
 星号前面的a和b是位置参数，星号后面的x和y是关键字参数，调用mix()函数并传入参数时，关键字参数一定要使用"变量名=值"的形式传入数据，如果同位置参数一样传入数据，就会引发一个TypeError异常
-
-### 调用方法时
-
-```python
-def add(x,y):
-    print x+y
-
-para = (1,2)
-add(*para)
-#result: 3
-
-kkwd = {'x' :1,'y':2}
-add(**kkwd)
-#result: 3
-```
-
-参考：
-
-http://blog.csdn.net/yzj99848873/article/details/48025593
-
-Python星号（ * ）操作符的用法
-
-https://mp.weixin.qq.com/s/toh59s2-UlqiZfkE5ThxZw
-
-谈一谈python中的魔法变量*args和**kwargs
-
-https://mp.weixin.qq.com/s/s7PFVE_wcAMZaRUds2MJDQ
-
-Python中的*args和**kwargs是什么？该如何使用？

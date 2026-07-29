@@ -165,7 +165,7 @@ https://blog.csdn.net/gitblog_00088/article/details/138788294
 
 ![](/images/img6/Radix_Sort.gif)
 
-基数排序（Radix Sort），先按低优先级排序，再按高优先级排序。
+基数排序（Radix Sort），先按低优先级bits排序，再按高优先级bits排序。
 
 ![](/images/img6/radix_sort.png)
 
@@ -180,6 +180,12 @@ https://blog.csdn.net/gitblog_00088/article/details/138788294
 所以这里的排序问题，实际上被转化为如何并行求Exclusive Cumsum的问题了。
 
 ![](/images/img6/Scan_Counter.png)
+
+如果对topk算子使用基数排序的话，则应该先按高优先级bits分桶。
+
+从大到小遍历桶，判断当前桶元素是否足够凑出K个最大值：如果桶内总数 < K，收下分界桶的全部元素，继续遍历该桶的下一级的高位桶。
+
+对于32bit数据，假设8bit为1组，则最多4轮即可找到所有topk的元素。
 
 https://zhuanlan.zhihu.com/p/488016994
 

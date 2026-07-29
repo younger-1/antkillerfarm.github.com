@@ -172,6 +172,10 @@ https://www.zhihu.com/question/2041418597344469916
 
 如何评价星舰12飞，有什么震撼的时刻？（2026.5.23）
 
+https://www.zhihu.com/question/2064275797712679409
+
+星舰V3第13次试飞成功，如何评价本次试飞？（2026.7.24）
+
 # StarLink
 
 ![](/images/img6/StarLink.jpg)
