@@ -133,6 +133,40 @@ https://zhuanlan.zhihu.com/p/704143990
 
 在一篇充斥着粗口的内容中，阿纳斯塔西娅指责丈夫的年轻女粉丝们，称她们用PS将自己P进家庭合影中代替她，并公然分享对丈夫费多罗夫的性幻想。
 
+---
+
+医生来见罗戈津：有一个好消息，一个坏消息，您想听哪个？
+
+罗戈津：先听好消息吧？
+
+医生：您已脱离生命危险，并且寿命增加了九千岁。
+
+罗戈津：那坏消息呢？
+
+医生：[惨了！消息称罗戈津将失去生殖器官，已被紧急送往莫斯科手术](https://www.163.com/dy/article/HP9UU66I055389NN.html)
+
+https://www.zhihu.com/question/573759567
+
+俄航天集团前总裁罗戈津遭炮击受伤，炮击使用的是高精度的弹药，目前情况如何？
+
+https://zhuanlan.zhihu.com/p/635432606
+
+俄罗斯纳粹点将录
+
+https://www.zhihu.com/answer/3546126630
+
+俄罗斯和乌克兰哪边的纳粹含量更高?
+
+---
+
+亲乌俄纳、“俄罗斯志愿军团”创建者、“奥丁青年（Wotanjugend）”组织头目阿列克谢·列夫金（Alexei Levkin）：“亚速营的兄弟们，我为什么和你们站在一起？因为布丁正在用鞑靼人和车臣人玷污俄罗斯人的白人血液！还有那些东亚黄种人，他们都是彘和犬杂交出来的非人生物！“
+
+支持莫斯科的俄纳带手子，“鲁西奇小组”一把手和联合创始人阿列克谢·米尔恰科夫（Alexey Milchakov）：“唉，又幻想了，幻想我们打进了基辅，把乌克兰变成了‘小罗斯’，幻想鲁西奇的弟兄们一人发两三个10岁以下的乌克兰小萝莉当性奴，幻想我们宣布强X合法化以后，乌克兰妇女争先恐后爬到我们的床上，幻想打下基辅以后我们又回师莫斯科，干烂了老玻尿酸布丁。“
+
+https://www.zhihu.com/question/548394612
+
+俄罗斯和乌克兰到底谁的新纳粹更多？说乌克兰有纳粹是五十步笑百步还是百步笑五十步？
+
 ## 泽连斯基语录
 
 永远记住：乌克兰在这个敌人出现之前就有，乌克兰将在他之后还会继续存在。
@@ -152,23 +186,3 @@ No one but ourselves can guarantee security.
 When you attack us, you will see our faces, not our backs.
 
 Without gas or without you? – The answer is without you. Without electricity or without you? – Without you. Without water or without you? – Without you. Without food or without you? – Without you.
-
-他们告诉你我们是纳粹。但一个牺牲了超过八百万条生命来消灭纳粹的民族怎么能被称为纳粹呢？我的祖父作为苏联步兵活过了整场战争，在一个独立的乌克兰作为上校死去，我怎么会是纳粹呢？
-
-当我竞选总统时，我说我们每个人都是总统。因为我们都对我们的国家负责。为了我们美丽的乌克兰。现在事实证明，我们每个人都是一名战士。战士在他或她自己的地方。我相信我们每个人都会获胜。
-
-我希望能有光，但情况非常困难，现在有时有光，有时没有光。最重要的是（心）里面要有光。
-
-即使没有电，我们对自己的信仰之光也不会被熄灭。
-
-Freedom comes at a high price. But slavery has an even higher price.
-
-虽然自由代价很高，但奴隶的代价更高！自由是一代人的代价，奴隶却是一代又一代人的，代价代代相传，我们忍了下来，抵挡了攻击、威胁、核威胁、恐怖和导弹袭击。这个冬天我们也会熬过去，因为我们知道我们为何而战！
-
-This year began on February 24. Without prefaces and preludes.
-
-今年是从2月24日开始的，没有序言也没有前奏。
-
-On February 24, millions of us made a choice. Not a white flag, but a blue and yellow flag. Not escaping, but meeting. Meeting the enemy. Resisting and fighting.
-
-在2月24日，我们成千上万人做出了选择：不是苍白的降幡，而是蓝黄的战旗；不是掉头逃亡，而是抬头面对——面对着敌人，抵抗并且奋战。

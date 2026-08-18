@@ -223,3 +223,7 @@ https://www.w3cschool.cn/article/leijuncode
 https://mp.weixin.qq.com/s/7AtuIcic3ubzYAHnkDpONA
 
 雷军：穿越人生低谷的感悟
+
+https://www.sohu.com/a/748167444_121284943
+
+少年雷军：学习自觉口才好，喜欢参加演讲活动，高考成绩全班第五

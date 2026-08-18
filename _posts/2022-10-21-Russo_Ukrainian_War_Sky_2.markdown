@@ -11,9 +11,6 @@ category: Russo Ukrainian War Sky
 
 ## 概述（续）
 
-
----
-
 https://zhuanlan.zhihu.com/p/595934765
 
 镜头回顾——俄乌战争的第一年
@@ -141,6 +138,10 @@ https://zhuanlan.zhihu.com/p/1969570182566483359
 https://zhuanlan.zhihu.com/p/2041864753379816214
 
 乌克兰战局追踪-2026年5月24日
+
+https://zhuanlan.zhihu.com/p/2066688818502165268
+
+乌克兰战局追踪-2026年7月31日
 
 ## 顿巴斯战争
 

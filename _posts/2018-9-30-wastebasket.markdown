@@ -105,6 +105,10 @@ https://www.zhihu.com/question/627499717
 
 中国大陆发第一篇计算机顶会的人都怎么样了？
 
+https://www.zhihu.com/question/2068695330120365319
+
+疑似南京大学数学学院院长喻良的辞职信火了，“不想干了，特提出辞职”为什么戳中了大家的共情点？
+
 # 科研人生
 
 ![](/images/img4/dunning-kruger-effect-curve.png)

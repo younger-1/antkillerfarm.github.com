@@ -112,6 +112,8 @@ https://mp.weixin.qq.com/s/yim7DxwM_oj8RRNS7UT9Mg
 
 坑人的是，普渡大学在考虑施皖雄的终身教职的时候，“游说施皖雄应聘的莫宗坚没有说出一句挽救的话”，再次导致一位优秀的华人数学家离开学术圈，真是毁人不倦啊。据张益唐在一次访谈中说，莫宗坚对待大陆学生的态度比较轻蔑，甚至说过“大陆学生没有一个能行的”。
 
+---
+
 用Claude解决问题的levent alpoge是那年math 55成绩第二的学生。而他在帖子里提到的akhil是akhil mathew，是那年唯二直接跳过math 55上研究生课程的学生，现在是芝加哥大学最年轻的正教授之一，研究方向正是代数几何。
 
 https://www.zhihu.com/question/2062518030224061737
@@ -121,3 +123,11 @@ https://www.zhihu.com/question/2062518030224061737
 https://www.zhihu.com/question/2040738759281473391
 
 如何评价OpenAI称推翻困扰数学界近80年的“平面单位距离猜想”？这一结果的可信度如何？
+
+https://zhuanlan.zhihu.com/p/2071261191620636735
+
+困扰数学圈22年的难题（Crouzeix猜想），居然被协和实习医生解决了？
+
+https://www.zhihu.com/question/2071680380755785039
+
+怎么看森多夫猜想（Sendov's Conjecture）已被AI、Lech Mazur、陶哲轩攻破？

@@ -181,6 +181,18 @@ https://www.zhihu.com/question/609087404
 
 ---
 
+很多人认为QUIC加密只是为了安全。其实还有一个非常重要的原因：防止下一次协议僵化。
+
+TCP的教训是：你让中间设备看得越多，它们就越容易开始依赖这些东西。
+
+这就是所谓的：Ossification-resistant encryption——防僵化加密。
+
+https://zhuanlan.zhihu.com/p/2071511044871270666
+
+为什么Google最后放弃了TCP？
+
+---
+
 参考：
 
 https://mp.weixin.qq.com/s/vpz6bp3PT1IDzZervyOfqw

@@ -7,7 +7,7 @@ category: Russo Ukrainian War Fire
 * toc
 {:toc}
 
-# 俄乌战争：疾风篇
+# 俄乌战争：烈火篇
 
 烈火篇主要讲述贪腐官员和小人物的故事。
 

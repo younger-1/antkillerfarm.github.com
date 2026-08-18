@@ -7,9 +7,89 @@ category: Russo Ukrainian War Fire
 * toc
 {:toc}
 
-# 俄乌战争：疾风篇
+# 俄乌战争：烈火篇
 
 ## 凡人列传
+
+https://www.163.com/dy/article/H534FI0S05531JS1.html
+
+变态人妻鼓励俄军人老公戴套性侵乌克兰女人，魔鬼人妻遭人肉曝光
+
+https://zhuanlan.zhihu.com/p/506648469
+
+来自前线的回忆：鲁比日内血战纪实
+
+https://zhuanlan.zhihu.com/p/579785034
+
+拉平上将化身督战队，用枪指着“祖国叛徒”的头——斯瓦托沃溃兵的故事
+
+https://zhuanlan.zhihu.com/p/577621180
+
+被骗去抵挡乌克兰反攻，一路溃退——俄动员兵上前线的故事
+
+https://zhuanlan.zhihu.com/p/517657283
+
+旅长害怕我们干掉他——俄军士兵采访实录
+
+https://zhuanlan.zhihu.com/p/604241912
+
+不会归来的人——瓦格纳死囚、军事葬礼、疯狂的丧葬行业与特别军事行动的代价
+
+https://zhuanlan.zhihu.com/p/608784859
+
+俄雇佣兵的子弹，没用来打乌军，瓦格纳把俄军大将，画在了靶子上
+
+https://zhuanlan.zhihu.com/p/642515984
+
+损失七成人员 被无情抛弃的俄罗斯风暴大队士兵想抓住乌克兰总统
+
+https://zhuanlan.zhihu.com/p/637922023
+
+俄罗斯军队对乌克兰俘虏进行去势惩罚
+
+https://zhuanlan.zhihu.com/p/659213744
+
+乌克兰被俘军医自述俄罗斯虐俘经过
+
+https://zhuanlan.zhihu.com/p/657242560
+
+精神错乱 俄罗斯士兵在儿童面前扔手榴弹
+
+https://zhuanlan.zhihu.com/p/658019757
+
+从传票到葬礼：俄罗斯动员兵的命运
+
+https://zhuanlan.zhihu.com/p/629858714
+
+曾杀害苏联红军 俄罗斯老兵猎手不幸被乌克兰国防军击毙
+
+https://zhuanlan.zhihu.com/p/659097027
+
+人伦惨剧 俄罗斯军队铁血战士不慎将妹妹焚烧至死
+
+https://zhuanlan.zhihu.com/p/659097052
+
+曾获普京亲切接见 俄罗斯铁血名将因醉酒谋害18岁少女被捕
+
+https://zhuanlan.zhihu.com/p/569536994
+
+俄罗斯士兵真的开始卖坦克了
+
+https://zhuanlan.zhihu.com/p/669343082
+
+身残志坚 俄罗斯25岁弱智青年参加乌克兰特别军事行动
+
+https://zhuanlan.zhihu.com/p/669553719
+
+血战乌克兰 俄罗斯精忠报国魔人点将录
+
+https://zhuanlan.zhihu.com/p/671680600
+
+俄罗斯女记者抱怨军事医院人满为患
+
+https://zhuanlan.zhihu.com/p/674708205
+
+没有300万卢布 俄罗斯伤兵拿到两桶胡萝卜和一袋洋葱补偿
 
 https://zhuanlan.zhihu.com/p/705217427
 

@@ -125,7 +125,13 @@ Viktor Afzalov：俄罗斯空军司令
 
 Firepoint工程师平均岁数50岁，大部分是苏联解体之前培养的军工系统大学生。现在正当壮年（50多岁），如鱼得水，成了改写人类战争史的大人物。
 
-首席设计师Denys Shtilerman，莫斯科物理技术学院（MIPT）IT/工程背景。
+首席设计师Denys Shtilerman，莫斯科物理技术学院（MIPT）IT/工程背景。在俄罗斯求学，在俄罗斯发家致富，曾为俄罗斯军事研究所工作，并在俄罗斯监狱服过两次刑。
+
+![](/images/img6/Firepoint-Flamingo.jpg)
+
+https://zhuanlan.zhihu.com/p/2065386092250002767
+
+乌克兰的“奇爱博士”
 
 ---
 
